@@ -9,7 +9,7 @@ public abstract class Loan implements Bank {
 	}
 	public void calculateInterest()
 	{
-		System.out.println("Your Interest for the year is Rs. 1000");
+		System.out.println("Your Interest for the year is 5%");
 	}
 	
 }

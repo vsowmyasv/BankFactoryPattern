@@ -7,6 +7,6 @@ public abstract class SavingsAccount implements Bank{
 	}
 	public void calculateInterest()
 	{
-		System.out.println("Your Interest for the year is Rs. 2000");
+		System.out.println("Your Interest for the year is 6%");
 	}
 }
