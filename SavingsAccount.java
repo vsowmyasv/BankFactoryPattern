@@ -5,8 +5,8 @@ public abstract class SavingsAccount implements Bank{
 	{
 		System.out.println("Your Savings account has been created...");
 	}
-	public void showBalance()
+	public void calculateInterest()
 	{
-		System.out.println("Your current balance in this account is Rs.20000");
+		System.out.println("Your Interest for the year is Rs. 2000");
 	}
 }
